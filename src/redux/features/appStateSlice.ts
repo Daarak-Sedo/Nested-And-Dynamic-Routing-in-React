@@ -8,6 +8,7 @@ const initialState: appState = {
   appState: ""
 };
 
+
 export const appStateSlice = createSlice({
   name: "appState",
   initialState,
